@@ -6,9 +6,31 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "天地源万熙天地微楼书",
     "navigationBarTextStyle":"black"
-  },
+  }, 
+  "tabBar": {  
+    "color": "#a9b7b7",  
+    "selectedColor": "#11cd6e",  
+    "borderStyle": "black" ,
+    "list": [{  
+      "text": "楼盘" ,
+      "pagePath": "pages/index/index"
+    }, {  
+      "text": "户型"  ,
+      "pagePath": "pages/index/index" 
+    },{  
+      "text": "置业"  ,
+      "pagePath": "pages/index/index"
+    },{  
+      "text": "周边" ,
+      "pagePath": "pages/index/index"
+    },{  
+      "text": "动态" ,
+      "pagePath": "pages/index/index"
+    }
+  ]
+},
   "style": "v2",
   "sitemapLocation": "sitemap.json"
 }
