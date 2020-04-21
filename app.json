@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-    "pages/mu/mu"
+    "pages/mu/mu",
+    "pages/mahua/mahua"
   ],
   "window":{
     "backgroundTextStyle":"light",
