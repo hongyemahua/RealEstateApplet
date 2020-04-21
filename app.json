@@ -1,9 +1,7 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs",
-    "pages/mu/mu",
-    "pages/mahua/mahua"
+    "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
