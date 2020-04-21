@@ -27,7 +27,7 @@
       "pagePath": "pages/index/index"
     },{  
       "text": "动态" ,
-      "pagePath": "pages/index/index"
+      "pagePath": "pages/logs/logs"
     }
   ]
 },
